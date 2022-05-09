@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author osman
+ * @author zayn
  */
 public class Menu extends javax.swing.JFrame {
 
@@ -106,7 +106,7 @@ public class Menu extends javax.swing.JFrame {
         jLabel4.setFont(new java.awt.Font("Lucida Grande", 1, 36)); // NOI18N
         jLabel4.setText("WELCOME TO");
         getContentPane().add(jLabel4);
-        jLabel4.setBounds(150, 50, 270, 43);
+        jLabel4.setBounds(150, 50, 270, 47);
 
         jLabel5.setFont(new java.awt.Font("Lucida Grande", 1, 36)); // NOI18N
         jLabel5.setText("INTI HOTEL");

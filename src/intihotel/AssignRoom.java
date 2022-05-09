@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author osman
+ * @author zayn
  */
 public class AssignRoom extends javax.swing.JFrame {
 

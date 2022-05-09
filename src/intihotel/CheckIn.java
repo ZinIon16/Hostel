@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author osman
+ * @author zayn
  */
 public class CheckIn extends javax.swing.JFrame {
 

@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author osman
+ * @author zayn
  */
 public class LoginScreen extends javax.swing.JFrame {
 
@@ -46,17 +46,17 @@ public class LoginScreen extends javax.swing.JFrame {
 
         jLabel4.setText("User Name");
         getContentPane().add(jLabel4);
-        jLabel4.setBounds(70, 170, 68, 16);
+        jLabel4.setBounds(70, 170, 52, 14);
 
         jLabel5.setText("Password");
         getContentPane().add(jLabel5);
-        jLabel5.setBounds(70, 210, 80, 16);
+        jLabel5.setBounds(70, 210, 80, 14);
 
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/intihotel/logo.png"))); // NOI18N
         getContentPane().add(jLabel2);
         jLabel2.setBounds(0, 10, 150, 200);
         getContentPane().add(jTextField1);
-        jTextField1.setBounds(160, 170, 160, 28);
+        jTextField1.setBounds(160, 170, 160, 20);
 
         login.setText("Login");
         login.addActionListener(new java.awt.event.ActionListener() {
@@ -65,9 +65,9 @@ public class LoginScreen extends javax.swing.JFrame {
             }
         });
         getContentPane().add(login);
-        login.setBounds(240, 260, 79, 29);
+        login.setBounds(240, 260, 57, 23);
         getContentPane().add(jPasswordField1);
-        jPasswordField1.setBounds(160, 210, 160, 28);
+        jPasswordField1.setBounds(160, 210, 160, 20);
 
         exit.setText("Exit");
         exit.addActionListener(new java.awt.event.ActionListener() {
@@ -76,12 +76,12 @@ public class LoginScreen extends javax.swing.JFrame {
             }
         });
         getContentPane().add(exit);
-        exit.setBounds(160, 260, 80, 29);
+        exit.setBounds(160, 260, 80, 23);
 
         jLabel6.setFont(new java.awt.Font("Lucida Grande", 1, 36)); // NOI18N
         jLabel6.setText("INTI HOTEL");
         getContentPane().add(jLabel6);
-        jLabel6.setBounds(150, 60, 270, 43);
+        jLabel6.setBounds(150, 60, 270, 47);
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/intihotel/whiteBG.png"))); // NOI18N
         getContentPane().add(jLabel1);

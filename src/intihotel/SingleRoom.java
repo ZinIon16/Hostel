@@ -7,7 +7,7 @@ package intihotel;
 
 /**
  *
- * @author osman
+ * @author zayn
  */
 public class SingleRoom extends javax.swing.JFrame {
 

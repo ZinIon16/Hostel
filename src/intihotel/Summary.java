@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author osman
+ * @author zayn
  */
 public class Summary extends javax.swing.JFrame {
 

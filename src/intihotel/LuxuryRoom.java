@@ -7,7 +7,7 @@ package intihotel;
 
 /**
  *
- * @author osman
+ * @author zayn
  */
 public class LuxuryRoom extends javax.swing.JFrame {
 

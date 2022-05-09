@@ -7,7 +7,7 @@ package intihotel;
 
 /**
  *
- * @author adrianasyakirah
+ * @author zayn
  */
 public class Customer {
     

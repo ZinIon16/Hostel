@@ -17,7 +17,7 @@ import java.util.Arrays;
 import java.lang.String;
 /**
  *
- * @author adrianasyakirah
+ * @author zayn
  */
 public class WaitingList extends CheckIn {
     
